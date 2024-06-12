@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/dasank-xwalklearning/:/",
+    "/content/dasank-xwalklearning/configuration:/.helix/config.json"
   ]
 }
